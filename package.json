@@ -1,0 +1,12 @@
+{
+  "name": "gerenciador-contatos",
+  "version": "1.0.0",
+  "main": "Contato.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "1. Clone este repositório ou baixe os arquivos.\r 2. Abra o terminal na pasta do projeto.\r 3. Execute `node index.js` para rodar o sistema de gerenciamento de contatos."
+}
